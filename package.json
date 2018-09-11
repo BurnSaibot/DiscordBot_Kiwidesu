@@ -26,6 +26,7 @@
     "bufferutil": "^3.0.3",
     "discord.io": "^2.5.3",
     "discord.js": "^11.4.2",
+    "url-regex": "^4.1.1",
     "winston": "^3.1.0"
   }
 }
